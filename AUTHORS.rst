@@ -1,13 +1,17 @@
 Requests is written and maintained by Kenneth Reitz and
 various contributors:
 
-Keepers of the Four Crystals
-````````````````````````````
+Keepers of the Crystals
+```````````````````````
 
 - Kenneth Reitz <me@kennethreitz.org> `@kennethreitz <https://github.com/kennethreitz>`_, Keeper of the Master Crystal.
+- Ian Cordasco <graffatcolmingov@gmail.com> `@sigmavirus24 <https://github.com/sigmavirus24>`_.
+- Nate Prewitt <nate.prewitt@gmail.com> `@nateprewitt <https://github.com/nateprewitt>`_.
+
+Previous Keepers of Crystals
+````````````````````````````
+
 - Cory Benfield <cory@lukasa.co.uk> `@lukasa <https://github.com/lukasa>`_
-- Ian Cordasco <graffatcolmingov@gmail.com> `@sigmavirus24 <https://github.com/sigmavirus24>`_
-- Nate Prewitt <nate.prewitt@gmail.com> `@nateprewitt <https://github.com/nateprewitt>`_
 
 
 Patches and Suggestions
@@ -183,3 +187,7 @@ Patches and Suggestions
 - Matt Liu <liumatt@gmail.com> (`@mlcrazy <https://github.com/mlcrazy>`_)
 - Taylor Hoff <primdevs@protonmail.com> (`@PrimordialHelios <https://github.com/PrimordialHelios>`_)
 - Hugo van Kemenade (`@hugovk <https://github.com/hugovk>`_)
+- Arthur Vigil (`@ahvigil <https://github.com/ahvigil>`_)
+- Nehal J Wani (`@nehaljwani <https://github.com/nehaljwani>`_)
+- Demetrios Bairaktaris (`@DemetriosBairaktaris <https://github.com/demetriosbairaktaris>`_)
+- Darren Dormer (`@ddormer <https://github.com/ddormer>`_)
